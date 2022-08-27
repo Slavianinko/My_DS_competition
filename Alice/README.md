@@ -46,4 +46,4 @@ https://ods.ai/competitions/alice
 По результатам конкурса занял 19 место на открытом тестовом наборе данных и 27 на закрытом.
 
 
-![alt text](ODS_merch_m.jpeg "Title")
+![alt text](ODS_merch_m.jpg "Title")
